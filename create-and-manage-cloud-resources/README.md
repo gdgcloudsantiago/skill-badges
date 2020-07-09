@@ -1,5 +1,9 @@
 # Challenge Lab: Create and Manage Cloud Resources
 
+▶️ 
+[YouTube - Next OnAir Extended - Skill Badges Challenge - Create and Manage Cloud Resources
+](https://www.youtube.com/watch?v=1uFZUz8nlxA)
+
 Abrir GCLOUD:
 
 ## CONFIGURACIONES ANTES DE EMPEZAR:
