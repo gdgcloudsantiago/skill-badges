@@ -1,4 +1,4 @@
-# Getting Started: Create and Manage Cloud Resources: Challenge Lab
+# Challenge Lab: Create and Manage Cloud Resources
 
 Abrir GCLOUD:
 
@@ -79,7 +79,7 @@ gcloud compute instance-templates create nginx-template \
 
 Creación de *Target Pool* (Permite un punto de acceso único a todas las instancias del grupo) [documentación target pool](https://cloud.google.com/load-balancing/docs/target-pools):
 
-``sh
+```sh
 gcloud compute target-pools create nginx-pool
 ```
 
