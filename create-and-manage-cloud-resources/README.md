@@ -8,12 +8,13 @@ Abrir GCLOUD:
 
 ## CONFIGURACIONES ANTES DE EMPEZAR:
 
-Configuración de la región y zona por defecto para los comandos gcloud según laboratorio `us-east1-x`:
+Configuración de la región y zona por defecto para los comandos `gcloud` según laboratorio `us-east1-x`:
 
 ```sh
 gcloud config set compute/region us-east1
 gcloud config set compute/zone us-east1-b
 ```
+
 ## CREACIÓN DE LA INSTANCIA (GCE):
 
 Creación de instancia con nombre y tipo de máquina:
@@ -21,6 +22,8 @@ Creación de instancia con nombre y tipo de máquina:
 ```sh
 gcloud compute instances create nucleus-jumphost --machine-type f1-micro
 ```
+
+✅CHECK01
 
 ## CREACIÓN DEL CLUSTER DE K8S MAS EXPOSICIÓN DE LA APLICACIÓN (GKE):
 
@@ -59,6 +62,8 @@ Llamar al servicio para probar que esté funcionando correctamente:
 ```
 http://<IP_DEL_SERVICIO>
 ```
+
+✅CHECK02
 
 ## CREACIÓN DEL BALANCEADOR DE CARGA HTTP/S:
 
@@ -173,3 +178,7 @@ Llamar al servicio:
 ```sh
 http://<IP_DEL_SERVICIO>
 ```
+
+✅CHECK03
+
+## ¡FELICITACIONES!
