@@ -214,5 +214,3 @@ gcloud projects add-iam-policy-binding <project-ID>\
 ```
 
 ✅CHECK09
-
-## ¡FELICITACIONES!

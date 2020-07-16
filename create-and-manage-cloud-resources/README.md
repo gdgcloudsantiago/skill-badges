@@ -180,5 +180,3 @@ http://<IP_DEL_SERVICIO>
 ```
 
 ✅CHECK03
-
-## ¡FELICITACIONES!
