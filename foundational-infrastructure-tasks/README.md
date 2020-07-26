@@ -1,5 +1,4 @@
-# Perform Foundational Infrastructure Tasks in Google Cloud
-: Challenge Lab
+# Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab
 
 ▶️ 
 YouTube - No Disponible para este laboratorio
