@@ -1,7 +1,8 @@
 # Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab
 
 ▶️ 
-YouTube - No Disponible para este laboratorio
+[YouTube - Next OnAir Extended - Skill Badges Challenge - Perform Foundational Infrastructure Tasks in Google Cloud
+](https://youtu.be/ELBlxPNkGjI)
 
 Abrir Cloud Shell o utiliza Google SDK para aplicar estos comandos:
 
