@@ -2,7 +2,7 @@
 
 # GDG Cloud Santiago [![Slack][slack_badge]][slack_link]
 
-[slack_badge]: https://img.shields.io/badge/slack-gcp-E01563.svg?style=flat
+[slack_badge]: https://drive.google.com/file/d/1-hxpwOC8dPxKqjhqkziR4uEWS5xDrQvD/view?usp=sharing
 [slack_link]: https://join.slack.com/t/gdgcloudscl/shared_invite/zt-8ae4lrzn-LE1OPbSH5ClOUIJFTlI3tw
 
 # Si aún no lo has hecho, síguenos en todas nuestras redes que tenemos para ti!
