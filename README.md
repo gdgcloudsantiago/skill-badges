@@ -1,6 +1,6 @@
 <img src="https://avatars1.githubusercontent.com/u/48249676?s=200&v=4" alt="Google Cloud Platform logo" title="Google Cloud Platform" align="right" height="96" width="96"/>
 
-# GDG Cloud Santiago [![Slack][slack_badge]][slack_link]
+# GDG Cloud Santiago [![Slack][slack_badge =50x]][slack_link]
 
 [slack_badge]: https://storage.googleapis.com/resources-prod-gdgcloudsantiago/svg/subscribe.svg
 [slack_link]: https://join.slack.com/t/gdgcloudscl/shared_invite/zt-8ae4lrzn-LE1OPbSH5ClOUIJFTlI3tw
